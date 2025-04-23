@@ -1,4 +1,5 @@
 Name: Lavanya Santana S
 Reg.No: 24MCR059
 Dept: MCA
-Fav Subject: Java  
+Fav Subject: Java
+Mobile Model: Redmi Note 12 
