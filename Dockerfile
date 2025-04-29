@@ -5,7 +5,8 @@ FROM python:3.10-slim
 WORKDIR /app
 
 # 3. Copy your project files into the container
-COPY . .
+COPY . /app
+
 
 # 4. Install the dependencies
 RUN pip install pandas scikit-learn matplotlib
