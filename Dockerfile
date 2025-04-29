@@ -13,5 +13,5 @@ RUN pip install pandas scikit-learn matplotlib
 # 5. Expose a port (optional, only if running a web app)
 # EXPOSE 5000
 
-# 6. Command to run your ML script
-CMD ["python", "day-3.py"]
+CMD ["python", "/app/day2.py"]
+
