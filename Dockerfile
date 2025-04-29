@@ -15,4 +15,4 @@ RUN pip install pandas scikit-learn matplotlib
 # EXPOSE 5000
 
 # 6. Command to run your ML script
-CMD ["python", "day-2.py"]
+CMD ["python", "day-3.py"]
